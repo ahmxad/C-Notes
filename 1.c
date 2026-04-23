@@ -1,3 +1,5 @@
+// Printing output and variables
+
 #include <stdio.h>
 int main(){
     int age = 21;
